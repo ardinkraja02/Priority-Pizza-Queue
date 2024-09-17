@@ -1,1 +1,1 @@
-Will update soon
+This is my practice for making a priority queue, where the program generates different orders in a restaurant and can list the queue and order it based on priority. As this is an old project there will be some updates to make the code clearer.
